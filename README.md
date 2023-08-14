@@ -16,3 +16,6 @@ qweqwerqwefew
 qwe
 wefqewf
 dfwethwthjwthrhtw
+
+### Copyright
+Git training 2024
