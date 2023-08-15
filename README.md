@@ -9,13 +9,8 @@ Sample website with plenty of files for demos
 ## Hokus
 
 Pokus FOKUS
-Bla
-blabla
-qwerqwef	wqe
-qweqwerqwefew
-qwe
-wefqewf
-dfwethwthjwthrhtw
+
 
 ### Copyright
 Git training 2024
+
