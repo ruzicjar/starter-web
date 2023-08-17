@@ -13,5 +13,5 @@ Pokus FOKUS
 
 
 ### Copyright
-Git training 2024
+Git training 2024. All rights reserved.
 
