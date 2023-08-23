@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 ## Hokus
 
 Pokus FOKUS
-
+Update from web interface
 
 ### Copyright
 Git training 2024. All rights reserved.
